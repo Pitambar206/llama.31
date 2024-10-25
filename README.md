@@ -1,4 +1,4 @@
-# llama.31
+# llama3.1-8B QA Chatbot
 
 # 📄  Document Question Answering with LangChain, FAISS, and LLaMA 3.1-8B
 * This repository contains an implementation of a Document Question Answering (QA) system leveraging LangChain, FAISS vector store, and the LLaMA 3.1-8B model. The LLaMA model is optimized using 4-bit quantization (NF4) via the BitsAndBytes library to enable efficient inference on resource-constrained hardware.
